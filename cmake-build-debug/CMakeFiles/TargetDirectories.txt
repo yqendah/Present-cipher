@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Present2/cmake-build-debug/CMakeFiles/Present2.dir
+C:/Users/User/CLionProjects/Present2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Present2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
